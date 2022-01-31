@@ -2,8 +2,7 @@
 //  HeroTableViewCell.swift
 //  HeroisMarvel
 //
-//  Created by Luis Eduardo Silva Oliveira on 31/01/22.
-//  Copyright © 2022 Eric Brito. All rights reserved.
+//  Created by John Allen Santos Coimbra on 31/01/22.
 //
 
 import UIKit
