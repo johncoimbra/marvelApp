@@ -2,8 +2,7 @@
 //  HeroViewController.swift
 //  HeroisMarvel
 //
-//  Created by Eric Brito on 22/10/17.
-//  Copyright © 2017 Eric Brito. All rights reserved.
+//  Created by John Allen Santos Coimbra on 31/01/22.
 //
 
 import UIKit
